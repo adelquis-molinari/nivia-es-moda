@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #edafae;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #d5f4f0;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #c5f0ea;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #edafae;
+}
+#header4-a H1 {
+  color: #000000;
+}
+#header4-a B {
+  font-size: 22px;
+}
+#msg-box4-d .mbr-section-title {
+  text-align: center;
+}
+#msg-box3-4 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-7 P {
+  text-align: center;
+}
+
+#dropdown-menu-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-8 .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-8 .nav .link,
+#dropdown-menu-8 .dropdown-item {
+  font-size: 1em;
+  color: #edafae;
+}
+#dropdown-menu-8 .navbar,
+#dropdown-menu-8 .dropdown-menu {
+  background: #d5f4f0;
+}
+#dropdown-menu-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-8 .dropdown-menu a:hover,
+#dropdown-menu-8 .dropdown-menu a:focus {
+  background: #c5f0ea;
+}
+#dropdown-menu-8 .navbar-toggler {
+  color: #edafae;
+}
+
+#dropdown-menu-d .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-d .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+}
+#dropdown-menu-d .nav .link,
+#dropdown-menu-d .dropdown-item {
+  font-size: 1em;
+  color: #edafae;
+}
+#dropdown-menu-d .navbar,
+#dropdown-menu-d .dropdown-menu {
+  background: #d5f4f0;
+}
+#dropdown-menu-d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-d .dropdown-menu a:hover,
+#dropdown-menu-d .dropdown-menu a:focus {
+  background: #c5f0ea;
+}
+#dropdown-menu-d .navbar-toggler {
+  color: #edafae;
+}
